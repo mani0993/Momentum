@@ -5,8 +5,7 @@ import yfinance as yf
 from datetime import datetime, timedelta
 import time
 
-st.set_page_config(page_title='Momentum Screener', page_icon='📊')
-st.title('📊 Momentum Screener')
+st.set_page_config(page_title='Momentum Screener', page_icon='🚀')
 
 df = pd.read_csv('ind_niftytotalmarket_list.csv')
 
