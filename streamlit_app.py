@@ -1,9 +1,13 @@
+import streamlit as st
 import pandas as pd
 import numpy as np
 import yfinance as yf
 from pandas_datareader import data as pdr
 from datetime import datetime, timedelta
 import time
+
+st.set_page_config(page_title='Momentum Screener', page_icon='📊')
+st.title('📊 Momentum Screener')
 
 df = pd.read_csv('ind_niftytotalmarket_list.csv')
 
