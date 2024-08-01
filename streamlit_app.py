@@ -41,7 +41,7 @@ for ticker in newdf:
           return3m = ((data[ticker]['Close'][-1] / data[ticker]['Close'][-quarterly] - 1) * 100).round(2)
 
           dailyReturns = data[ticker]['Close'].pct_change()
-          stddev = np.std(np.log1p(dailyReturns[1:])) * np.sqrt(252) * 100
+          stddev = np.std(np.log1p(dailyReturns[1:])) * np.sqrt(annually) * 100
 
           sharpe12m = ((return12m - 6.5)/stddev).round(2)
           sharpe6m = ((return6m - 3.25)/stddev).round(2)
@@ -71,12 +71,12 @@ for ticker in newdf:
 
 df_screener = pd.DataFrame(screener)
 
+df_screener['Ticker'] = df_screener['Ticker'].str[:-3] 
+
 df_screener = df_screener.sort_values('Avg Sharpe 12-6-3', ascending=False)
 
-df_screener['Rank'] = df_screener['Avg Sharpe 12-6-3'].rank(ascending=False, method='first')
+df_screener['Rank'] = df_screener['Avg Sharpe 12-6-3'].rank(ascending=False, method='first').astype(int)
 
 df_screener = df_screener.set_index('Rank')
 
-df_screener[:30]
-
-#df_screener.head(60).to_csv('Screener-rfr.csv')
+df_screener[:60]
