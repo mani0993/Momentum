@@ -196,7 +196,7 @@ ESAF Small Finance Bank Ltd.,Financial Services,ESAFSFB,EQ,INE818W01011
 Easy Trip Planners Ltd.,Consumer Services,EASEMYTRIP,EQ,INE07O001026
 Edelweiss Financial Services Ltd.,Financial Services,EDELWEISS,EQ,INE532F01054
 Eicher Motors Ltd.,Automobile and Auto Components,EICHERMOT,EQ,INE066A01021
-Elecon Engineering Co. Ltd.,Capital Goods,ELECON,EQ,INE205B01023
+Elecon Engineering Co. Ltd.,Capital Goods,ELECON,EQ,INE205B01031
 Electronics Mart India Ltd.,Consumer Services,EMIL,EQ,INE02YR01019
 Electrosteel Castings Ltd.,Capital Goods,ELECTCAST,EQ,INE086A01029
 Elgi Equipments Ltd.,Capital Goods,ELGIEQUIP,EQ,INE285A01027
@@ -331,7 +331,6 @@ India Cements Ltd.,Construction Materials,INDIACEM,EQ,INE383A01012
 India Glycols Ltd.,Chemicals,INDIAGLYCO,EQ,INE560A01015
 India Pesticides Ltd.,Chemicals,IPL,EQ,INE0D6701023
 India Shelter Finance Corporation Ltd.,Financial Services,INDIASHLTR,EQ,INE922K01024
-Indiabulls Housing Finance Ltd.,Financial Services,IBULHSGFIN,EQ,INE148I01020
 Indiamart Intermesh Ltd.,Consumer Services,INDIAMART,EQ,INE933S01016
 Indian Bank,Financial Services,INDIANB,EQ,INE562A01011
 Indian Energy Exchange Ltd.,Financial Services,IEX,EQ,INE022Q01020
@@ -396,10 +395,10 @@ Jyoti CNC Automation Ltd.,Capital Goods,JYOTICNC,EQ,INE980O01024
 K.P.R. Mill Ltd.,Textiles,KPRMILL,EQ,INE930H01031
 KEI Industries Ltd.,Capital Goods,KEI,EQ,INE878B01027
 KNR Constructions Ltd.,Construction,KNRCON,EQ,INE634I01029
-KPI Green Energy Ltd.,Power,KPIGREEN,EQ,INE542W01017
+KPI Green Energy Ltd.,Power,KPIGREEN,BE,INE542W01025
 KPIT Technologies Ltd.,Information Technology,KPITTECH,EQ,INE04I401011
 KRBL Ltd.,Fast Moving Consumer Goods,KRBL,EQ,INE001B01026
-KSB Ltd.,Capital Goods,KSB,EQ,INE999A01015
+KSB Ltd.,Capital Goods,KSB,EQ,INE999A01023
 Kajaria Ceramics Ltd.,Consumer Durables,KAJARIACER,EQ,INE217B01036
 Kalpataru Projects International Ltd.,Construction,KPIL,EQ,INE220B01022
 Kalyan Jewellers India Ltd.,Consumer Durables,KALYANKJIL,EQ,INE303R01014
@@ -568,8 +567,8 @@ Rashtriya Chemicals & Fertilizers Ltd.,Chemicals,RCF,EQ,INE027A01015
 Rategain Travel Technologies Ltd.,Information Technology,RATEGAIN,EQ,INE0CLI01024
 Ratnamani Metals & Tubes Ltd.,Capital Goods,RATNAMANI,EQ,INE703B01027
 RattanIndia Enterprises Ltd.,Consumer Services,RTNINDIA,EQ,INE834M01019
-RattanIndia Power Ltd.,Power,RTNPOWER,EQ,INE399K01017
-Raymond Ltd.,Realty,RAYMOND,BE,INE301A01014
+RattanIndia Power Ltd.,Power,RTNPOWER,BE,INE399K01017
+Raymond Ltd.,Realty,RAYMOND,EQ,INE301A01014
 Redington Ltd.,Services,REDINGTON,EQ,INE891D01026
 Redtape Ltd.,Consumer Durables,REDTAPE,EQ,INE0LXT01019
 Reliance Industries Ltd.,Oil Gas & Consumable Fuels,RELIANCE,EQ,INE002A01018
@@ -590,6 +589,7 @@ Safari Industries (India) Ltd.,Consumer Durables,SAFARI,EQ,INE429E01023
 Sagar Cements Ltd.,Construction Materials,SAGCEM,EQ,INE229C01021
 Sai Silks (Kalamandir) Ltd.,Consumer Services,KALAMANDIR,EQ,INE438K01021
 Samhi Hotels Ltd.,Consumer Services,SAMHI,EQ,INE08U801020
+Sammaan Capital Ltd.,Financial Services,SAMMAANCAP,EQ,INE148I01020
 Samvardhana Motherson International Ltd.,Automobile and Auto Components,MOTHERSON,EQ,INE775A01035
 Sandur Manganese & Iron Ores Ltd.,Oil Gas & Consumable Fuels,SANDUMA,EQ,INE149K01016
 Sanghi Industries Ltd.,Construction Materials,SANGHIIND,EQ,INE999B01013
